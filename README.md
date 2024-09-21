@@ -199,11 +199,11 @@ Welcome to send a pull request to add papers and relevant content.
 - **Predicting How to Test Requirements: An Automated Approach** (2019), RE'19, Jonas Paul Winkler, et al. [[pdf]](https://ieeexplore.ieee.org/document/8920404) 
 
 ## Requirements Dependency
-- **A Zone-Based Model for Analysis of Dependent Failures in Requirements Inspection** (2023), TSE'23,
-- **Detecting Software Security Vulnerabilities Via Requirements Dependency Analysis** (2022), TSE'22,
-- **Safety requirements for symbiotic human-robot collaboration systems in smart factories: a pairwise comparison approach to explore requirements dependencies** (2021), RE'21,
-- **Views on quality requirements in academia and practice: commonalities, differences, and context-dependent grey areas** (2020), IST'20,
-- **Data-Driven Elicitation and Optimization of Dependencies between Requirements** (2019), RE'19,
+- **A Zone-Based Model for Analysis of Dependent Failures in Requirements Inspection** (2023), TSE'23, Boyuan Li, et al. [[pdf]](https://ieeexplore.ieee.org/document/10102922) 
+- **Detecting Software Security Vulnerabilities Via Requirements Dependency Analysis** (2022), TSE'22, Wentao Wang, et al. [[pdf]](https://ieeexplore.ieee.org/document/9222252/similar#similar) 
+- **Safety requirements for symbiotic human-robot collaboration systems in smart factories: a pairwise comparison approach to explore requirements dependencies** (2021), REJ'21, Georgia Dede, et al. [[pdf]](https://link.springer.com/article/10.1007/s00766-020-00337-x)  
+- **Views on quality requirements in academia and practice: commonalities, differences, and context-dependent grey areas** (2020), IST'20, Andreas Vogelsang, et al. [[pdf]](https://www.sciencedirect.com/science/article/pii/S095058491930271X?via%3Dihub) 
+- **Data-Driven Elicitation and Optimization of Dependencies between Requirements** (2019), RE'19, Gouri Deshpande, et al. [[pdf]](https://ieeexplore.ieee.org/document/8920671) 
 
 ## Requirements Traceability
 - **Towards Leveraging Fine-Grained Dependencies to Check Requirements Traceability Correctness** (2024), ICSE'24, 
@@ -277,6 +277,10 @@ Welcome to send a pull request to add papers and relevant content.
 - [Legal Requirements Change](https://doi.org/10.5281/zenodo.10959496): is a dataset of regulatory changes covering four widely used regulations from the finance domain.
 
 # Research Groups
+- [John Grundy](https://scholar.google.com/citations?user=bbEQGY8AAAAJ&hl=zh-CN): Monash University
+- [Natalia Juristo](https://scholar.google.com/citations?user=v3AC8vAAAAAJ&hl=en): Universidad Politécnica de Madrid
+- [Lionel Briand](https://scholar.google.com/citations?user=Zj897NoAAAAJ&hl=en): University of Ottawa
+- []
 
 
 # Venues
