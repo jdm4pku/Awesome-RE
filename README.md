@@ -217,7 +217,7 @@ Welcome to send a pull request to add papers and relevant content.
 - **The Benefits of Pre-Requirements Specification Traceability** (2022), RE'22, 
 - **Improving Traceability Link Recovery Using Fine-grained Requirements-to-Code Relations** (2021), ICSME'21, Tobias Hey, et al. [[pdf]](https://ieeexplore.ieee.org/document/9609109) 
 - **What have we learnt from the challenges of (semi-) automated requirements traceability? A discussion on blockchain applicability** (2021), IETS'21, Selina Demi, et al. [[pdf]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/sfw2.12035)
-- **Leveraging Historical Associations between Requirements and Source Code to Identify Impacted Classes** (2020), TSE'20,
+- **Leveraging Historical Associations between Requirements and Source Code to Identify Impacted Classes** (2020), TSE'20, Davide Falessi, et al. [[pdf]](https://ieeexplore.ieee.org/document/8423658) 
 - **A novel approach to tracing safety requirements and state-based design models** (2020), ICSE'20,
 - **Early Requirements Traceability with Domain-Specific Taxonomies - A Pilot Experiment** (2020), RE'20, Michael Unterkalmsteiner, et al. [[pdf]](https://arxiv.org/pdf/2311.12146)
 - **Interaction-based creation and maintenance of continuously usable trace links between requirements and source code** (2020), ESE'20, Paul Hübner, et al. [[pdf]](https://dl.acm.org/doi/abs/10.1007/s10664-020-09831-w) 
@@ -277,10 +277,27 @@ Welcome to send a pull request to add papers and relevant content.
 - [Legal Requirements Change](https://doi.org/10.5281/zenodo.10959496): is a dataset of regulatory changes covering four widely used regulations from the finance domain.
 
 # Research Groups
-- [John Grundy](https://scholar.google.com/citations?user=bbEQGY8AAAAJ&hl=zh-CN): Monash University
+- [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl=en): Peking University
 - [Natalia Juristo](https://scholar.google.com/citations?user=v3AC8vAAAAAJ&hl=en): Universidad Politécnica de Madrid
+- [Jane Cleland-Huang](https://scholar.google.com/citations?user=6AbFevoAAAAJ&hl=en): University of Notre Dame
+- [John Grundy](https://scholar.google.com/citations?user=bbEQGY8AAAAJ&hl=zh-CN): Monash University
 - [Lionel Briand](https://scholar.google.com/citations?user=Zj897NoAAAAJ&hl=en): University of Ottawa
-- []
-
+- [Nan Niu](https://scholar.google.com/citations?user=Ag81t_4AAAAJ&hl=zh-CN): University of Cincinnati
+- [Guenther Ruhe](https://scholar.google.com/citations?hl=en&user=5nL_z0oAAAAJ): University of Calgary
+- [Annie I. Antón](https://scholar.google.com/citations?hl=en&user=IQosWycAAAAJ): Georgia Institute of Technology
+- [Tony Gorschek](https://scholar.google.com/citations?hl=en&user=9eXSw7UAAAAJ): Blekinge Institute of Technology
 
 # Venues
+- TSE
+- TOSEM
+- ICSE
+- ASE
+- ISSTA
+- CHI
+- RE
+- ASEJ
+- REJ
+- ESE
+- IST
+- JSS
+- IETS
