@@ -123,7 +123,7 @@ Welcome to send a pull request to add papers and relevant content.
 - **ReqCompletion: Domain-Enhanced Automatic Completion for Software Requirements** (2024), RE'24, Xiaoli Lian, et al. [[pdf]](https://ieeexplore.ieee.org/document/10628465)
 
 ## Requirements Generation
-- **Using LLMs in Software Requirements Specifications: An Empirical Evaluation** (2024), RE'24,
+- **Using LLMs in Software Requirements Specifications: An Empirical Evaluation** (2024), RE'24, Madhava Krishna, et al. [[pdf]](https://ieeexplore.ieee.org/document/10628461)
 - **On-Demand Security Requirements Synthesis with Relational Generative Adversarial Networks** (2023), ICSE'23, Viktoria Koscinski, et al. [[pdf]](https://ieeexplore.ieee.org/document/10172729)
 - **InputGen: A Tool for Automatic Generation of Prototype Inputs to Support  Rapid Requirements Validation** (2023), ICSE'23, Shuanglong Chang, et al. [[pdf]](https://ieeexplore.ieee.org/document/10172899) 
 - **RM2Doc: A Tool for Automatic Generation of Requirements Documents from Requirements Model** (2023), ICSE'23, Tianshu Bao, et al. [[pdf]](https://dl.acm.org/doi/10.1145/3510454.3516850) 
@@ -131,8 +131,7 @@ Welcome to send a pull request to add papers and relevant content.
 - **Crowdsourced requirements generation for automatic testing via knowledge graph** (2020), ISSTA'20, Chao Guo, et al. [[pdf]](https://dl.acm.org/doi/10.1145/3395363.3404363) 
 - **RM2PT: a tool for automated prototype generation from requirements model, ICSE Companion** (2019), ICSE'19, Yilong Yang, et al. [[pdf]](https://ieeexplore.ieee.org/document/8802733) 
 - **Automatic Generation of Graphical User Interface Prototypes from Unrestricted Natural Language Requirements** (2019), ASE'19, Kristian Kolthoff, et al. [[pdf]](https://ieeexplore.ieee.org/document/8952477) 
-- **Generating contextual help for user interfaces from software requirements** (2019), IETS'19, 
-
+- **Generating contextual help for user interfaces from software requirements** (2019), IETS'19, Pierre A. Akiki, et al. [[pdf]](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-sen.2018.5163) 
 
 ## Requirements Question Answering
 - **AI-based Question Answering Assistance for Analyzing Natural-language Requirements** (2023), ICSE'23, Saad Ezzini, et al. [[pdf]](https://ieeexplore.ieee.org/document/10172663)
@@ -182,8 +181,9 @@ Welcome to send a pull request to add papers and relevant content.
 - **Learning-based Relaxation of Completeness Requirements for Data Entry Forms** (2024), TOSEM'24, Hichem Belgacem, et al. [[pdf]](https://dl.acm.org/doi/10.1145/3635708) 
 - **Usefulness of open domain model for identifying missing software requirements concepts**, SPE'24, Ziyan Zhao, et al. [[pdf]](https://onlinelibrary.wiley.com/doi/10.1002/spe.3285) 
 - **What can Open Domain Model Tell Us about the Missing Software Requirements: A Preliminary Study** (2021), RE'21, Ziyan Zhao, et al. [[pdf]](https://ieeexplore.ieee.org/document/9604542) 
-- **Utilizing Perspectives to Improve Completeness in Industrial Requirements Specifications** (2020), RE'20, 
-- **An empirical study on the potential usefulness of domain models for completeness checking of requirements** (2019), ESE'19, Chetan Arora, et al. [[pdf]](https://link.springer.com/article/10.1007/s10664-019-09693-x) 
+- **Utilising Perspectives to Improve Completeness in Industrial Requirements Specifications** (2020), RE'20, Reinhard Stoiber, et al. [[pdf]](https://ieeexplore.ieee.org/document/9218146)  
+- **An empirical study on the potential usefulness of domain models for completeness checking 
+of requirements** (2019), ESE'19, Chetan Arora, et al. [[pdf]](https://link.springer.com/article/10.1007/s10664-019-09693-x) 
 
 ## Requirements Validation
 - **ValidGen: A Tool for Automatic Generation of Validation Scripts to Support Rapid Requirements Validation** (2024), ICSE'24, Hongyue Pan, et al. [[pdf]](https://dl.acm.org/doi/10.1145/3639478.3640048) 
@@ -206,7 +206,7 @@ Welcome to send a pull request to add papers and relevant content.
 - **Data-Driven Elicitation and Optimization of Dependencies between Requirements** (2019), RE'19, Gouri Deshpande, et al. [[pdf]](https://ieeexplore.ieee.org/document/8920671) 
 
 ## Requirements Traceability
-- **Towards Leveraging Fine-Grained Dependencies to Check Requirements Traceability Correctness** (2024), ICSE'24, 
+- **Towards Leveraging Fine-Grained Dependencies to Check Requirements Traceability Correctness** (2024), ICSE'24, Anamaria-Roberta Preda, et al. [[pdf]](https://dl.acm.org/doi/10.1145/3639478.3643091) 
 - **Requirements Classification for Traceability Link Recovery** (2024), RE'24, Tobias Hey, et al. [[pdf]](https://ieeexplore.ieee.org/document/10628507) 
 - **Requirements are All You Need: From Requirements to Code with LLMs** (2024), RE'24,
 - **Cross-Domain Requirements Linking via Adversarial-based Domain Adaptation** (2023), ICSE'23, Zhiyuan Chang, et al. [[pdf]](https://ieeexplore.ieee.org/document/10172688)
@@ -214,7 +214,7 @@ Welcome to send a pull request to add papers and relevant content.
 - **On the influence of architectural languages on requirements traceability** (2023), SPE'23, Manuel Ballarín, et al. [[pdf]](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3166)
 - **Using Consensual Biterms from Text Structures of Requirements and Code to Improve IR-Based Traceability Recovery** (2022), ASE'22, Hui Gao, el al. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3551349.3556948) 
 - **Leveraging BPMN particularities to improve traceability links recovery among requirements and BPMN models** (2022), RE'22, Raúl Lapeña, el al. [[pdf]](https://dl.acm.org/doi/abs/10.1007/s00766-021-00365-1) 
-- **The Benefits of Pre-Requirements Specification Traceability** (2022), RE'22, 
+- **The Benefits of Pre-Requirements Specification Traceability** (2022), RE'22, Julia Krause, et al. [[pdf]](https://ieeexplore.ieee.org/document/9920099) 
 - **Improving Traceability Link Recovery Using Fine-grained Requirements-to-Code Relations** (2021), ICSME'21, Tobias Hey, et al. [[pdf]](https://ieeexplore.ieee.org/document/9609109) 
 - **What have we learnt from the challenges of (semi-) automated requirements traceability? A discussion on blockchain applicability** (2021), IETS'21, Selina Demi, et al. [[pdf]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/sfw2.12035)
 - **Leveraging Historical Associations between Requirements and Source Code to Identify Impacted Classes** (2020), TSE'20, Davide Falessi, et al. [[pdf]](https://ieeexplore.ieee.org/document/8423658) 
@@ -242,9 +242,9 @@ Welcome to send a pull request to add papers and relevant content.
 - **Identification and prioritization of SLR search tool requirements: an SLR and a survey** (2019), ESE'19, Ahmed Al-Zubidy, et al. [[pdf]](https://link.springer.com/article/10.1007/s10664-018-9626-5)
 
 ## Requirements Change
-- **Supporting Emotional Intelligence, Productivity and Team Goals while Handling Software Requirements Changes** (2024), TOSEM'24, 
+- **Supporting Emotional Intelligence, Productivity and Team Goals while Handling Software Requirements Changes** (2024), TOSEM'24, Kashumi Madampe, et al. [[pdf]](https://dl.acm.org/doi/10.1145/3664600) 
 - **AI-Enabled Regulatory Change Analysis of Legal Requirements** (2024), RE'24, Sallam Abualhaija, et al. [[pdf]](https://ieeexplore.ieee.org/document/10628495)
-- **A Framework for Emotion-Oriented Requirements Change Handling in Agile Software Engineering** (2023), TSE'23, Kashumi Madampe, et al. [[pdf]](https://dl.acm.org/doi/10.1109/TSE.2023.3253145) 
+- **A Framework for Emotion-Oriented Requirements Change Handling in Agile Software Engineering** (2023), TSE'23, Kashumi Madampe, et al. [[pdf]](https://ieeexplore.ieee.org/document/10061282) 
 - **The Emotional Roller Coaster of Responding to Requirements Changes in Software Engineering** (2023), TSE'23, Kashumi Madampe, et al. [[pdf]](https://ieeexplore.ieee.org/document/9769966) 
 - **A Faceted Taxonomy of Requirements Changes in Agile Contexts** (2022), TSE'22, Kashumi Madampe, et al. [[pdf]](https://ieeexplore.ieee.org/document/9513607) 
 - **A Prediction Model for Software Requirements Change Impact** (2021), ASE'21, Kareshna Zamani, et al. [[pdf]](https://ieeexplore.ieee.org/document/9678582) 
